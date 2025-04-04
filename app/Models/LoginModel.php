@@ -19,4 +19,5 @@ class LoginModel extends Authenticatable
         'username', 
         'password',
     ];
+    
 }
